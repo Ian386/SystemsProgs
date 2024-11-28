@@ -1,0 +1,4 @@
+Mail Merge Log - Thu Nov 28 17:10:49 EAT 2024
+Successfully sent email to: Ian Ndolo <ianndolomwau@gmail.com>
+Successfully sent email to: Jane Smith <ian.mwau@students.jkuat.ac.ke>
+Successfully sent email to: Kevin Mwengei <kevinmwengei@gmail.com>
