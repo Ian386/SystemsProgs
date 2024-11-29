@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#NAME: IAN NDOLO MWAU
+#REG NO: SCT211-0034/2022
 
 # enter directory path
 echo "Enter the directory path: "

@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#NAME: IAN NDOLO MWAU
+#REG NO: SCT211-0034/2022
+
 # Check if nmap is installed
 if ! command -v nmap &> /dev/null; then
     echo "Error: nmap is not installed."

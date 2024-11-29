@@ -1,19 +1,7 @@
 #!/bin/bash
 
-# Department Chairman of Computing has heard about your Unix shell
-# scripting Prowess in creating mail merge service, he wants your services to
-# invite students to a webinar hosted by JhubAfrica . The department
-# wants to send the invitation letter below to a webinar addressed to each
-# student personally.
-# “Inviting the you as our computing student to our 21st Open
-# Webinar on skills optimization by jhubAfrica scheduled for
-# Friday, 29th November from 5:00 P.M. The Zoom link for
-# joining in on Friday is as given below. We shall also broadcast
-# the webinar on our youtube channel. Youtube link:
-# https://youtu.be/ONVTA7LKMIs
-# The chairman has a text file that contains the names of the persons and the email
-# of persons they want to send to. Implement this mail merge in linux bash and
-# should work with all popular browsers .
+#NAME: IAN NDOLO MWAU
+#REG NO: SCT211-0034/2022
 
 
 

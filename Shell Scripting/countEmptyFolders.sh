@@ -3,6 +3,9 @@
 # Write a Shell Script that counts the number of empty folders in a directory
 # (with size=0) and outputs the list of those folders and the time created.
 
+#NAME: IAN NDOLO MWAU
+#REG NO: SCT211-0034/2022
+
 # enter directory path
 echo "Enter the directory path: "
 read dirPath
