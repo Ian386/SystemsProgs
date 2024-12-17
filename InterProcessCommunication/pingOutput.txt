@@ -1,0 +1,7 @@
+File descriptor duplicator: 1
+PING www.google.com (172.217.170.164) 56(84) bytes of data.
+64 bytes from mba01s09-in-f4.1e100.net (172.217.170.164): icmp_seq=1 ttl=56 time=13.0 ms
+
+--- www.google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 13.000/13.000/13.000/0.000 ms
